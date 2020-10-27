@@ -1,76 +1,108 @@
 const products = [
   {
-    name: 'Airpods Wireless Bluetooth Headphones',
-    image: '/images/airpods.jpg',
+    name: "Ladies 14K Yellow Gold Silver Claddagh Ring",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/r/1/r1-w.jpg",
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
-    brand: 'Apple',
-    category: 'Electronics',
-    price: 89.99,
-    countInStock: 3,
-    rating: 0,
-    numReviews: 0,
-  },
-  {
-    name: 'iPhone 11 Pro 256GB Memory',
-    image: '/images/phone.jpg',
-    description:
-      'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
-    brand: 'Apple',
-    category: 'Electronics',
-    price: 599.99,
+      "The Claddagh: In the Claddagh the crown represents loyalty, the heart represents love, and the hands represent friendship. It is widely known as a symbol for great friendship. This ancient Gaelic design is also used in engagement rings and in traditional wedding rings for the irish. If worn on the right hand with the heart facing out it means you are single, facing in means you are dating someone. If worn on the left hand with the heart facing out it means you are engaged and facing in you are married.",
+    brand: "Claddagh",
+    category: "Rings",
+    price: 8999.99,
     countInStock: 10,
-    rating: 0,
-    numReviews: 0,
+    rating: 4.5,
+    numReviews: 12,
   },
   {
-    name: 'Cannon EOS 80D DSLR Camera',
-    image: '/images/camera.jpg',
+    name: "Silver Claddagh Celtic Knot Mens Ladies Unisex Ring",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/de7ed06bf2e4efe4cf7fb609c23af26a/r/7/r712-w_2.jpg",
     description:
-      'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
-    brand: 'Cannon',
-    category: 'Electronics',
-    price: 929.99,
-    countInStock: 0,
-    rating: 0,
-    numReviews: 0,
-  },
-  {
-    name: 'Sony Playstation 4 Pro White Version',
-    image: '/images/playstation.jpg',
-    description:
-      'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
-    brand: 'Sony',
-    category: 'Electronics',
-    price: 399.99,
-    countInStock: 10,
-    rating: 0,
-    numReviews: 0,
-  },
-  {
-    name: 'Logitech G-Series Gaming Mouse',
-    image: '/images/mouse.jpg',
-    description:
-      'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
-    brand: 'Logitech',
-    category: 'Electronics',
-    price: 49.99,
+      "The Claddagh: In the Claddagh the crown represents loyalty, the heart represents love, and the hands represent friendship. It is widely known as a symbol for great friendship. This ancient Gaelic design is also used in engagement rings and in traditional wedding rings for the irish. If worn on the right hand with the heart facing out it means you are single, facing in means you are dating someone. If worn on the left hand with the heart facing out it means you are engaged and facing in you are married.",
+    brand: "Claddagh",
+    category: "Rings",
+    price: 59999.99,
     countInStock: 7,
-    rating: 0,
-    numReviews: 0,
+    rating: 4.0,
+    numReviews: 8,
   },
   {
-    name: 'Amazon Echo Dot 3rd Generation',
-    image: '/images/alexa.jpg',
+    name: "Diamond Rose Gold coated Silver Celtic Knot Heart Pendant Necklace",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/de7ed06bf2e4efe4cf7fb609c23af26a/_/0/_071edit_rose_1.jpg",
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
-    brand: 'Amazon',
-    category: 'Electronics',
-    price: 29.99,
-    countInStock: 0,
-    rating: 0,
-    numReviews: 0,
+      "Crafted from solid sterling silver and coated in 14K rose gold, it is hallmarked 925. Set with twenty two bright white CZ crystals (Man-made diamonds). It was individually handcrafted by a Silversmith in Ireland.",
+    brand: "Cannon",
+    category: "Necklaces",
+    price: 92999.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 15,
   },
-]
+  {
+    name: "Tree of Life Silver Emerald Celtic Pendant Necklace",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/de7ed06bf2e4efe4cf7fb609c23af26a/0/0/00000_copy_1.jpg",
+    description:
+      "Made from Solid Sterling Silver. It was Individually hand-crafted by a Silversmith in Ireland and is hallmarked 925. Guaranteed Quality.",
+    brand: "Celtia",
+    category: "Necklaces",
+    price: 39999.99,
+    countInStock: 11,
+    rating: 5,
+    numReviews: 2,
+  },
+  {
+    name: "14K White & Rose Gold coated Silver Celtic Forscodia Band Ring Set",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/r/7/r731-sets-wr.jpg",
+    description:
+      "These Claddagh rings are made from sterling silver and are thickly coated in 14K white & Rose gold, they are hallmarked .925. They were individually handcrafted by a Silversmith in Ireland. The Claddagh symbol repeats itself on the opposite side and the two are connected by Celtic knot designs on each side of the ring.",
+    brand: "Forscodia",
+    category: "Rings",
+    price: 4999.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 1,
+  },
+  {
+    name: "14K Two Tone Gold Solid Silver Flambigon Celtic Knot Bracelet",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/b/2/b21-1_65_40_angle_7.rgb_color.0007.jpg",
+    description:
+      "This bracelet is solid sterling silver and is thickly coated in 14K white & yellow gold and is hallmarked .925. It was individually handcrafted by a Silversmith in Ireland.",
+    brand: "Flambigon",
+    category: "Bracelets",
+    price: 2999.99,
+    countInStock: 0,
+    rating: 7,
+    numReviews: 2,
+  },
+  {
+    name: "54K Two Pooraliaer Green Ring",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/7/1/710-wy-green_2.jpg",
+    description:
+      " The never ending knotwork can symbolise the love and never ending commitment given in the sacred blessings of the marriage vows. The three knots can represent the past, present and future of the relationship.",
+    brand: "Pooraliaer",
+    category: "Rings",
+    price: 9999.99,
+    countInStock: 3,
+    rating: 8,
+    numReviews: 22,
+  },
+  {
+    name: "Ladies Ruby Silver Celtic Trinity Knot Ring - July Birthstone",
+    image:
+      "https://www.glencara.com/media/catalog/product/cache/de7ed06bf2e4efe4cf7fb609c23af26a/r/8/r80silver-ruby.jpg",
+    description:
+      "The Celtic Knot is the most well known celtic design, It represents eternity and continuity. In christianity it is used to represent the Holy Trinity: Father , Son and Holy Spirit. It is thought to show the continuous energy flow from life and death",
+    brand: "Claddagh",
+    category: "Bracelets",
+    price: 7999.99,
+    countInStock: 3,
+    rating: 7,
+    numReviews: 9,
+  },
+];
 
-export default products
+export default products;
