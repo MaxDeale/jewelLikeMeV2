@@ -2,7 +2,11 @@
   display: flex;
   justify-content: flex-end;
   text-align: right;
-  background-color: rgb(34, 34, 34);
+  background-color: white;
+  color: rgb(32, 32, 32);
+  background-image: url("../img/leaftwirl.png");
+  background-repeat: no-repeat;
+  background-position: center;
   flex-direction: column;
   border-radius: 10px;
 }
