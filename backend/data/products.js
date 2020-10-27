@@ -80,7 +80,7 @@ const products = [
   {
     name: "54K Two Pooraliaer Green Ring",
     image:
-      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/7/1/710-wy-green_2.jpg",
+      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/r/7/r704-wf-peridot.jpg",
     description:
       " The never ending knotwork can symbolise the love and never ending commitment given in the sacred blessings of the marriage vows. The three knots can represent the past, present and future of the relationship.",
     brand: "Pooraliaer",
@@ -93,7 +93,7 @@ const products = [
   {
     name: "Ladies Ruby Silver Celtic Trinity Knot Ring - July Birthstone",
     image:
-      "https://www.glencara.com/media/catalog/product/cache/de7ed06bf2e4efe4cf7fb609c23af26a/r/8/r80silver-ruby.jpg",
+      "https://www.glencara.com/media/catalog/product/cache/6916fac04f77e66e97dcc856452f097e/r/8/r80silver-ruby.jpg",
     description:
       "The Celtic Knot is the most well known celtic design, It represents eternity and continuity. In christianity it is used to represent the Holy Trinity: Father , Son and Holy Spirit. It is thought to show the continuous energy flow from life and death",
     brand: "Claddagh",
